@@ -1,3 +1,7 @@
 name: FoodAlchemy
 version: '${project.version}'
 main: me.bluedyaishela.foodalchemy.FoodAlchemy
+commands:
+  foodalchemy:
+    description: Vous utilisez FoodAlchemy en version ${project.version}
+    permission: foodalchemy.use

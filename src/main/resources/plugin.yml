@@ -1,0 +1,3 @@
+name: FoodAlchemy
+version: '${project.version}'
+main: me.bluedyaishela.foodalchemy.FoodAlchemy
